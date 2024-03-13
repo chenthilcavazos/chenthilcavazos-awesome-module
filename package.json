@@ -1,0 +1,23 @@
+{
+  "name": "chenthilcavazos-awesome-module",
+  "version": "1.0.0",
+  "description": "An awesome Node.js module with interesting functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenthilcavazos/chenthilcavazos-awesome-module"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenthilcavazos/chenthilcavazos-awesome-module/issues"
+  },
+  "homepage": "https://github.com/chenthilcavazos/chenthilcavazos-awesome-module#readme"
+}
